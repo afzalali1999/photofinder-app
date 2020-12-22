@@ -5,6 +5,7 @@
 retrieves a list of images from the Unsplash API
 - Renders a list of images the react way
 - Uses the `ref` attribute to listen for events, and add images dynamically
+- Uses state to store, alter, and display the appropriate data
 - Uses component lifecycle methods to render inital data on application launch
 - Uses CSS Grid for image formatting
 - Design inspired by pinterest
